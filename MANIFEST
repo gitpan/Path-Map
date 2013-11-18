@@ -1,0 +1,10 @@
+Build.PL
+lib/Path/Map.pm
+lib/Path/Map/Match.pm
+MANIFEST			This list of files
+t/path_mapper.t
+META.yml
+META.json
+Makefile.PL
+README
+LICENSE
