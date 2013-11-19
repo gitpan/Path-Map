@@ -16,12 +16,13 @@ name: Path-Map
 provides:
   Path::Map:
     file: lib/Path/Map.pm
-    version: 0.02
+    version: 0.03
   Path::Map::Match:
     file: lib/Path/Map/Match.pm
 requires:
+  List::MoreUtils: 0
   List::Util: 0
   perl: v5.8.0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.02
+version: 0.03
